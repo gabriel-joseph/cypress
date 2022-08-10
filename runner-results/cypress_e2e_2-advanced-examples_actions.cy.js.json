@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 14,
+  "passes": 14,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-08-05T02:23:35.812Z",
+  "duration": 18339,
+  "file": "cypress/e2e/2-advanced-examples/actions.cy.js"
+}

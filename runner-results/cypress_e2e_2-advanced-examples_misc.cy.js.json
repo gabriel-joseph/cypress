@@ -1,0 +1,10 @@
+{
+  "suites": 2,
+  "tests": 6,
+  "passes": 6,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-08-05T02:23:36.631Z",
+  "duration": 14094,
+  "file": "cypress/e2e/2-advanced-examples/misc.cy.js"
+}

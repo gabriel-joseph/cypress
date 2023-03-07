@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cy:run": "cypress run",
-    "cy:parallel" : "cypress-parallel -s cy:run -t 2 -d ./cypress/e2e/2-advanced-examples -a "
-
+    "cy:parallel": "cypress-parallel -s cy:run -t 2 -d ./cypress/e2e/2-advanced-examples -a "
   },
   "repository": {
     "type": "git",
@@ -20,7 +19,7 @@
   },
   "homepage": "https://github.com/gabriel-joseph/cypress#readme",
   "devDependencies": {
-    "cypress": "^10.4.0"
+    "cypress": "^10.11.0"
   },
   "dependencies": {
     "cypress-parallel": "^0.9.1"
